@@ -34,7 +34,7 @@ The current leaders are:
 Make sure Python is installed, then install Matplotlib:
 
 ```bash
-pip install matplotlib
+-r requirements.txt
 ```
 
 ## 🚀 How to Run
